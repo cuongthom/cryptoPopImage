@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.bg {
+    background-color: #28c0f1;
+}
+.textBlue {
+    color: #28c0f1;
+}
+.bg-ft {
+    background-color: #36758a;
+}
